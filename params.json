@@ -1,0 +1,6 @@
+{
+  "name": "Page",
+  "tagline": "",
+  "body": "### Where do you GO\r\n\"Where do you GO?\" helps Pokémon fans to find, tag and share Pokémon locations based on the users' current geographical location. It authenticates the identity of the user based on an initial Google Sign-In, and based on this authentication requests the user for their location information. Once the geographical location is obtained, the user is redirected to a Google Map which is rendered keeping his geographical location in mind. Once the map is displayed location-centric to the user, the Google Map with Pokémons which figure around him are displayed. In case he finds a Pokémon at a location not specified on the map, ee has the possibility of tagging a location as a \"Pokémon location\" by dropping a pin there. Other users' may thus benefit from the generic Pokémon information which is rendered by the map, as well as the information shared by the other users' and thus be able to locate Pokémon on a city-wide scale.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
